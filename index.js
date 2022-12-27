@@ -6,7 +6,8 @@ const port = process.env.PORT || 5000
 require('dotenv').config()
 
 const name = {
-    name: 'rakib'
+    name: 'rakib',
+    email: 'rakibul241221@gmail.com'
 }
 
 app.use(cors())
