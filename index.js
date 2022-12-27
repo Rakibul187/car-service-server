@@ -7,7 +7,8 @@ require('dotenv').config()
 
 const name = {
     name: 'rakib',
-    email: 'rakibul241221@gmail.com'
+    email: 'rakibul241221@gmail.com',
+    address: 'Dka, Bangladesh'
 }
 
 app.use(cors())
